@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Computer 
+2. Notebook 
+3. Monitor
+    1. Juegos
+    2. Manzana
